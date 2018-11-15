@@ -1,0 +1,56 @@
+import json
+
+import requests
+
+from PIL import Image
+from io import BytesIO
+
+DefaultPath = '/Users/cloudin/Desktop/LiuFeng/Spider/'
+# print(dir(requests))
+# url = 'http://www.baidu.com'
+# r = requests.get(url)
+#
+# # print(r.status_code)
+# # print(r.text)
+# # print(r.encoding)
+# url1 = 'http://httpbin.org/get'
+# params = {'k1': 'v1', 'k2': None}
+# r = requests.get(url1, params)
+# print(r.url)
+#
+# r = requests.get('http://img5.cache.netease.com/photo/0029/2017-04-14/900x600_CI0G5FMN3Q0N0029.jpg')
+# image = Image.open(BytesIO(r.content))
+# # image.save("/Users/cloudin/Desktop/LiuFeng/Spider/美女.jpg")
+
+#json处理
+
+# r = requests.get('https://github.com/timeline.json')
+# print(type(r.json()))
+# print(r.text)
+
+# r = requests.get('http://img5.cache.netease.com/photo/0029/2017-04-14/900x600_CI0G5FMN3Q0N0029.jpg')
+# with open(DefaultPath+'美女.jpg','wb+') as f:
+#     for chunk in r.iter_content(1024):
+#         f.write(chunk)
+
+# form = {'username': 'user', 'password': 'pass'}
+# r = requests.post('http://httpbin.org/post', data=form)
+#
+# r = requests.post('http://httpbin.org/post', data=json.dumps(form))
+# print(r.text)
+# url = 'http://www.baidu.com'
+# r = requests.get(url)
+# cookies = r.cookies
+# for k, v in cookies.get_dict().items():
+#     print(k, v)
+# cookies = {'k1': 'v1', 'k2': 'v2'}
+# r = requests.get('http://httpbin.org/cookies', cookies=cookies)
+# print(r.text)
+#重定向
+
+# r = requests.head('http://github.com', allow_redirects=True)
+# print(r.url)
+# print(r.status_code)
+# print(r.history)
+
+# proxies = {'http': ',,,','https': ',,,,'}
