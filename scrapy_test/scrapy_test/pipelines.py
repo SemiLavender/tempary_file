@@ -7,8 +7,7 @@
 
 
 class ScrapyTestPipeline(object):
-    @staticmethod
-    def process_item(item, spider):
+    def process_item(self, item, spider):
         path = '/Users/cloudin/Desktop/LiuFeng/Fiction_Factory/temp/'
         with open(path+item['name']+'.txt', 'w+') as f:
             f.write(item['content'])

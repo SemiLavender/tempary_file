@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a471cde2-61e7-47e0-965f-58970a84768b" name="Default" comment="" />
+    <list default="true" id="a471cde2-61e7-47e0-965f-58970a84768b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/scrapy_test/scrapy_test/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy_test/scrapy_test/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_test/scrapy_test/spiders/intresting_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy_test/scrapy_test/spiders/intresting_book.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,81 +18,42 @@
     <SUITE FILE_PATH="coverage/Spider$jira_add_users.coverage" NAME="jira_add_users Coverage Results" MODIFIED="1542029456488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Spider$test.coverage" NAME="test Coverage Results" MODIFIED="1536298236120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Spider$timetest.coverage" NAME="timetest Coverage Results" MODIFIED="1541772087513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Spider$Intresting.coverage" NAME="Intresting Coverage Results" MODIFIED="1542214969681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider$Intresting.coverage" NAME="Intresting Coverage Results" MODIFIED="1542370212584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Spider$reqirests.coverage" NAME="reqirests Coverage Results" MODIFIED="1536076348660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Spider$start.coverage" NAME="start Coverage Results" MODIFIED="1542370768295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_test" />
     <SUITE FILE_PATH="coverage/Spider$Qidian_xiaoshuo.coverage" NAME="Qidian_xiaoshuo Coverage Results" MODIFIED="1536298343398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="beautifulSoup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beautifulSoup.py">
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scrapy_test/scrapy_test/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-229" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapy_test/start.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
-              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+              <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Html_sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Html_sample.py">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapy_test/scrapy_test/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="66" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="208">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Qidian_xiaoshuo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Qidian_xiaoshuo.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapy_test/scrapy_test/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="57" column="89" selection-start-line="54" selection-end-line="57" selection-end-column="89" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="timetest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/timetest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jira_add_users.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jira_add_users.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Intresting.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Intresting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1456">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
+            <state relative-caret-position="-1994" />
           </provider>
         </entry>
       </file>
@@ -101,6 +65,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -114,6 +81,8 @@
         <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/jira_add_users.py" />
         <option value="$PROJECT_DIR$/Intresting.py" />
+        <option value="$PROJECT_DIR$/scrapy_test/scrapy_test/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapy_test/scrapy_test/spiders/intresting_book.py" />
       </list>
     </option>
   </component>
@@ -127,11 +96,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="27" />
+    <option name="x" value="43" />
+    <option name="y" value="23" />
     <option name="width" value="1237" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -143,6 +113,24 @@
             <path>
               <item name="Spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_test" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_test" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_test" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Intresting">
+  <component name="RunManager" selected="Python.start">
     <configuration name="Html_sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,25 +196,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Qidian_xiaoshuo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Qidian_xiaoshuo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="jira_add_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,6 +210,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jira_add_users.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy_test/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,19 +254,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Qidian_xiaoshuo" />
       <item itemvalue="Python.Html_sample" />
       <item itemvalue="Python.timetest" />
       <item itemvalue="Python.jira_add_users" />
       <item itemvalue="Python.Intresting" />
+      <item itemvalue="Python.start" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.start" />
         <item itemvalue="Python.Intresting" />
         <item itemvalue="Python.jira_add_users" />
         <item itemvalue="Python.Html_sample" />
         <item itemvalue="Python.timetest" />
-        <item itemvalue="Python.Qidian_xiaoshuo" />
       </list>
     </recent_temporary>
   </component>
@@ -296,17 +284,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="27" width="1237" height="777" extended-state="0" />
+    <frame x="43" y="23" width="1237" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33529413" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5955882" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.23969631" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.31176472" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20167364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20502092" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32979387" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -326,25 +314,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17770597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.108965516" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.23969631" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" weight="0.32979387" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.31176472" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="bottom" id="File Transfer" order="13" weight="0.3292683" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.23969631" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,24 +654,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/timetest.py">
+    <entry file="file://$PROJECT_DIR$/Intresting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beautifulSoup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1456">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="-17">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -694,13 +671,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Html_sample.py">
+    <entry file="file://$PROJECT_DIR$/timetest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -714,14 +688,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Intresting.py">
+    <entry file="file://$PROJECT_DIR$/Html_sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="200">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="66" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/scrapy_test/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/scrapy_test/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1994" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/scrapy_test/spiders/intresting_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/scrapy_test/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229" />
       </provider>
     </entry>
   </component>
