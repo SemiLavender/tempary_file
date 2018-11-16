@@ -10,14 +10,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/scrapy_test$start.coverage" NAME="start Coverage Results" MODIFIED="1542214936008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_test" />
+    <SUITE FILE_PATH="coverage/scrapy_test$start.coverage" NAME="start Coverage Results" MODIFIED="1542295901074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_test" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy_test/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
+            <state relative-caret-position="416">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
@@ -26,10 +26,10 @@
       <file leaf-file-name="intresting_book.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapy_test/spiders/intresting_book.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="273">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,8 +38,8 @@
       <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy_test/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="276">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -47,7 +47,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy_test/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="922">
+            <state relative-caret-position="131">
               <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
             </state>
           </provider>
@@ -55,7 +55,11 @@
       </file>
       <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy.cfg">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="start.py" pinned="false" current-in-tab="false">
@@ -81,8 +85,8 @@
       <list>
         <option value="$PROJECT_DIR$/scrapy_test/items.py" />
         <option value="$PROJECT_DIR$/scrapy_test/start.py" />
-        <option value="$PROJECT_DIR$/scrapy_test/settings.py" />
         <option value="$PROJECT_DIR$/scrapy_test/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapy_test/settings.py" />
         <option value="$PROJECT_DIR$/scrapy_test/spiders/intresting_book.py" />
       </list>
     </option>
@@ -97,9 +101,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="61" />
-    <option name="width" value="1312" />
+    <option name="x" value="43" />
+    <option name="y" value="23" />
+    <option name="width" value="1237" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectView">
@@ -199,20 +203,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="61" width="1312" height="777" extended-state="0" />
+    <frame x="43" y="23" width="1237" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3632353" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30735293" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.2382353" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.33970588" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15826772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16066946" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32979387" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -222,6 +225,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="File Transfer" order="13" weight="0.3292683" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -233,29 +237,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scrapy_test/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_test/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_test/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="416">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../airflowInaction/venv/lib/python3.6/site-packages/scrapy/utils/defer.py">
+    <entry file="file://$PROJECT_DIR$/scrapy_test/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+        <state relative-caret-position="364">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_test/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="922">
+        <state relative-caret-position="1768">
           <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
         </state>
       </provider>
@@ -270,19 +268,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/spiders/intresting_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../airflowInaction/venv/lib/python3.6/site-packages/scrapy/utils/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="55" lean-forward="true" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_test/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_test/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="276">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_test/spiders/intresting_book.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="273">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
