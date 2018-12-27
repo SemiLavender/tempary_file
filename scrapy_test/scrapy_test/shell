@@ -1,0 +1,21 @@
+#!/bin/bash
+
+src_path=/etc/kolla/ceilometer-notification/$1
+des_path_1=/etc/kolla/ceilometer-central/$1
+des_path_2=/etc/kolla/ceilometer-compute/$1
+
+cp $src_path $des_path_1
+
+scp $src_path ZC-Controller-0201:$src_path
+scp $src_path ZC-Controller-0201:$des_path_1
+
+scp $src_path ZC-Compute-0102:$des_path_2
+
+scp $src_path ZC-Compute-0103:$des_path_2
+
+scp $src_path ZC-Compute-0104:$des_path_2
+
+scp $src_path ZC-Compute-0202:$des_path_2
+
+scp $src_path ZC-Compute-0203:$des_path_2
+
